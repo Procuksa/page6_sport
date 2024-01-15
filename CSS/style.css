@@ -1,0 +1,84 @@
+header img{width:1400px;height: 450px;border-radius: 75px;}	
+	
+header{text-align: center;}	
+	
+body{background-color: black;}	
+	
+h1{text-align: center; color: white;font-size: 45px;font-family: Impact;}
+
+
+	
+	
+nav a{position: absolute;	
+left: -80px;	
+transition: 0.3s;	
+padding:15px;	
+width: 100px;	
+text-decoration: none;	
+font-size:20px;	
+color:white;	
+border-radius: 0 5px 5px 0;}	
+nav a:hover{left:0;	
+}	
+.golovna{	
+top: 810px;	
+background-color: #806491;	
+border: 3px solid #02315E;	
+font-size: 18px;	
+font-family: Impact;	
+}	
+.country{top:881px;	
+background-color: #B9848C;	
+border: 3px solid #00457E;	
+font-size: 19px;	
+font-family: Impact;	
+}	
+.buildings{top:955px;	
+background-color: #2F70AF;	
+border: 3px solid #295E92;	
+font-family: Impact;	
+font-size: 11px;	
+}	
+.facts{top:1030px;	
+background-color: #00457E;	
+font-size: 20px;	
+border: 3px solid #B9848C;	
+font-family: Impact;	
+}	
+	
+.food{top:1105px;	
+background-color: #02315E;	
+font-size: 16px;	
+border: 3px solid #806491;	
+font-family:Impact;	
+}	
+	
+main p{font-size: 30px;color: white; text-align: center;font-family:Impact;padding: 15px;}	
+	
+footer {color: white;font-family: Impact;background-color: #00457E;position: absolute;	
+top: 2650px;padding: 15px;width: 1400px;border-radius: 25px;font-size: 36px;}	
+	
+.viber::before{content: url(https://i.postimg.cc/Qt9fDqnN/free-icon-viber-3938054.png);	
+	
+margin-left:10px;	
+	
+}	
+	
+footer a{color:white;	
+text-decoration:none;	
+position: absolute;	
+top: 50px;	
+left: 1200px;	
+display: inline;}	
+	
+footer a:hover{color:#806491;transition: 1s;}	
+	
+.ua{position: absolute;	
+top: 150px;	
+left: 1190px;}	
+	
+.ja{position: absolute;	
+top: 150px;	
+left: 1280px;}
+
+h1{padding: 20px;}
